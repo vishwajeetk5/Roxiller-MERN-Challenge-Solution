@@ -47,4 +47,3 @@ This project is a solution to the Roxiller MERN Challenge. It showcases the impl
 - Node.js
 - Chart.js
 - Axios
-- Bootstrap
